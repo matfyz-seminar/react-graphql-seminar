@@ -1,0 +1,1009 @@
+{
+  "data": {
+    "allAvailableHotels": {
+      "edges": [
+        {
+          "node": {
+            "id": "SG90ZWxBdmFpbGFiaWxpdHk6MTE3Mzk2Nw==",
+            "hotel": {
+              "name": "Residence Le Groane",
+              "address": {
+                "street": "Vittorio Veneto 111",
+                "city": "Garbagnate Milanese",
+                "zip": "20024"
+              },
+              "mainPhoto": {
+                "highResUrl": "https://q-xx.bstatic.com/images/hotel/max500/446/44616244.jpg"
+              },
+              "rating": {
+                "stars": null,
+                "categoryName": null
+              }
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "SG90ZWxBdmFpbGFiaWxpdHk6NDU4ODQ=",
+            "hotel": {
+              "name": "NH Milano Fiera",
+              "address": {
+                "street": "Viale Degli Alberghi",
+                "city": "Rho",
+                "zip": "20017"
+              },
+              "mainPhoto": {
+                "highResUrl": "https://q-xx.bstatic.com/images/hotel/max500/118/118663879.jpg"
+              },
+              "rating": {
+                "stars": 4,
+                "categoryName": "First Class"
+              }
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "SG90ZWxBdmFpbGFiaWxpdHk6MjQ4NTM5",
+            "hotel": {
+              "name": "Sheraton Milan Malpensa Airport Hotel & Conference Centre",
+              "address": {
+                "street": "Malpensa Terminal 1 S.S. 336",
+                "city": "Case Nuove",
+                "zip": "21010"
+              },
+              "mainPhoto": {
+                "highResUrl": "https://q-xx.bstatic.com/images/hotel/max500/267/26753013.jpg"
+              },
+              "rating": {
+                "stars": 4,
+                "categoryName": "First Class"
+              }
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "SG90ZWxBdmFpbGFiaWxpdHk6NDYyODMw",
+            "hotel": {
+              "name": "Four Seasons Hotel Milano",
+              "address": {
+                "street": "Via Gesù 6-8",
+                "city": "Milan",
+                "zip": "20121"
+              },
+              "mainPhoto": {
+                "highResUrl": "https://q-xx.bstatic.com/images/hotel/max500/126/126065156.jpg"
+              },
+              "rating": {
+                "stars": 5,
+                "categoryName": "Luxury"
+              }
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "SG90ZWxBdmFpbGFiaWxpdHk6MjUyMTU=",
+            "hotel": {
+              "name": "Italiana Hotels Milan Rho Fair",
+              "address": {
+                "street": "Via Alessandro Volta S/N",
+                "city": "Rho",
+                "zip": "20017"
+              },
+              "mainPhoto": {
+                "highResUrl": "https://q-xx.bstatic.com/images/hotel/max500/740/74030690.jpg"
+              },
+              "rating": {
+                "stars": 4,
+                "categoryName": "First Class"
+              }
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "SG90ZWxBdmFpbGFiaWxpdHk6ODQ3Mzk=",
+            "hotel": {
+              "name": "Hotel de la Ville Monza - Small Luxury Hotels of the World",
+              "address": {
+                "street": "Viale Regina Margherita di Savoia 15",
+                "city": "Monza",
+                "zip": "20900"
+              },
+              "mainPhoto": {
+                "highResUrl": "https://q-xx.bstatic.com/images/hotel/max500/422/42245611.jpg"
+              },
+              "rating": {
+                "stars": 4,
+                "categoryName": "First Class"
+              }
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "SG90ZWxBdmFpbGFiaWxpdHk6ODg5Mjk=",
+            "hotel": {
+              "name": "Hotel Manzoni",
+              "address": {
+                "street": "Via Santo Spirito 20",
+                "city": "Milan",
+                "zip": "20121"
+              },
+              "mainPhoto": {
+                "highResUrl": "https://q-xx.bstatic.com/images/hotel/max500/131/13188165.jpg"
+              },
+              "rating": {
+                "stars": 4,
+                "categoryName": "First Class"
+              }
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "SG90ZWxBdmFpbGFiaWxpdHk6ODEwMTk=",
+            "hotel": {
+              "name": "Hotel Excelsior San Marco",
+              "address": {
+                "street": "Piazzale della Repubblica 6",
+                "city": "Bergamo",
+                "zip": "24122"
+              },
+              "mainPhoto": {
+                "highResUrl": "https://q-xx.bstatic.com/images/hotel/max500/666/66671805.jpg"
+              },
+              "rating": {
+                "stars": 4,
+                "categoryName": "First Class"
+              }
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "SG90ZWxBdmFpbGFiaWxpdHk6MTE4ODE5NA==",
+            "hotel": {
+              "name": "The Square Milano Duomo",
+              "address": {
+                "street": "Via Albricci 2-4",
+                "city": "Milan",
+                "zip": "20122"
+              },
+              "mainPhoto": {
+                "highResUrl": "https://q-xx.bstatic.com/images/hotel/max500/119/119790921.jpg"
+              },
+              "rating": {
+                "stars": 4,
+                "categoryName": "First Class"
+              }
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "SG90ZWxBdmFpbGFiaWxpdHk6MTY4MTA2OQ==",
+            "hotel": {
+              "name": "Room Mate Giulia",
+              "address": {
+                "street": "Silvio Pellico 4",
+                "city": "Milan",
+                "zip": "20121"
+              },
+              "mainPhoto": {
+                "highResUrl": "https://q-xx.bstatic.com/images/hotel/max500/662/66295905.jpg"
+              },
+              "rating": {
+                "stars": 4,
+                "categoryName": "First Class"
+              }
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "SG90ZWxBdmFpbGFiaWxpdHk6ODc1NDE=",
+            "hotel": {
+              "name": "Hotel Principe Di Savoia",
+              "address": {
+                "street": "Piazza Della Repubblica 17",
+                "city": "Milan",
+                "zip": "20124"
+              },
+              "mainPhoto": {
+                "highResUrl": "https://q-xx.bstatic.com/images/hotel/max500/141/14189943.jpg"
+              },
+              "rating": {
+                "stars": 5,
+                "categoryName": "Luxury"
+              }
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "SG90ZWxBdmFpbGFiaWxpdHk6ODM2ODk=",
+            "hotel": {
+              "name": "Rosa Grand Milano - Starhotels Collezione",
+              "address": {
+                "street": "Piazza Fontana 3",
+                "city": "Milan",
+                "zip": "20122"
+              },
+              "mainPhoto": {
+                "highResUrl": "https://q-xx.bstatic.com/images/hotel/max500/102/102039844.jpg"
+              },
+              "rating": {
+                "stars": 4,
+                "categoryName": "First Class"
+              }
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "SG90ZWxBdmFpbGFiaWxpdHk6MjA1OTA4Mw==",
+            "hotel": {
+              "name": "NYX Milan",
+              "address": {
+                "street": "Piazza Quattro Novembre 3",
+                "city": "Milan",
+                "zip": "20124"
+              },
+              "mainPhoto": {
+                "highResUrl": "https://q-xx.bstatic.com/images/hotel/max500/903/90368717.jpg"
+              },
+              "rating": {
+                "stars": 4,
+                "categoryName": "First Class"
+              }
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "SG90ZWxBdmFpbGFiaWxpdHk6ODEzMzY=",
+            "hotel": {
+              "name": "Hotel Dei Cavalieri",
+              "address": {
+                "street": "Piazza Giuseppe Missori, 1",
+                "city": "Milan",
+                "zip": "20123"
+              },
+              "mainPhoto": {
+                "highResUrl": "https://q-xx.bstatic.com/images/hotel/max500/845/84555172.jpg"
+              },
+              "rating": {
+                "stars": 4,
+                "categoryName": "First Class"
+              }
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "SG90ZWxBdmFpbGFiaWxpdHk6ODc5MDU=",
+            "hotel": {
+              "name": "Starhotels Grand Milan",
+              "address": {
+                "street": "Via Varese 23",
+                "city": "Saronno",
+                "zip": "21047"
+              },
+              "mainPhoto": {
+                "highResUrl": "https://q-xx.bstatic.com/images/hotel/max500/108/108161730.jpg"
+              },
+              "rating": {
+                "stars": 4,
+                "categoryName": "First Class"
+              }
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "SG90ZWxBdmFpbGFiaWxpdHk6MTc2MDc3",
+            "hotel": {
+              "name": "Santa Barbara Hotel",
+              "address": {
+                "street": "Piazzale Supercortemaggiore, 4",
+                "city": "San Donato Milanese",
+                "zip": "20097"
+              },
+              "mainPhoto": {
+                "highResUrl": "https://q-xx.bstatic.com/images/hotel/max500/898/89801350.jpg"
+              },
+              "rating": {
+                "stars": 4,
+                "categoryName": "First Class"
+              }
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "SG90ZWxBdmFpbGFiaWxpdHk6MTgxMzM2MA==",
+            "hotel": {
+              "name": "Hotel Forum",
+              "address": {
+                "street": "Via Fiume 7",
+                "city": "Baranzate",
+                "zip": "20021"
+              },
+              "mainPhoto": {
+                "highResUrl": "https://q-xx.bstatic.com/images/hotel/max500/706/70664156.jpg"
+              },
+              "rating": {
+                "stars": 3,
+                "categoryName": "Comfort"
+              }
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "SG90ZWxBdmFpbGFiaWxpdHk6ODAwMTQ=",
+            "hotel": {
+              "name": "UNA Hotel Century",
+              "address": {
+                "street": "Via Fabio Filzi 25/B",
+                "city": "Milan",
+                "zip": "20124"
+              },
+              "mainPhoto": {
+                "highResUrl": "https://q-xx.bstatic.com/images/hotel/max500/621/62183861.jpg"
+              },
+              "rating": {
+                "stars": 4,
+                "categoryName": "First Class"
+              }
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "SG90ZWxBdmFpbGFiaWxpdHk6MzYzNjc0",
+            "hotel": {
+              "name": "Armani Hotel Milano",
+              "address": {
+                "street": "Via Manzoni 31",
+                "city": "Milan",
+                "zip": "20121"
+              },
+              "mainPhoto": {
+                "highResUrl": "https://q-xx.bstatic.com/images/hotel/max500/132/132452620.jpg"
+              },
+              "rating": {
+                "stars": 5,
+                "categoryName": "Luxury"
+              }
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "SG90ZWxBdmFpbGFiaWxpdHk6ODAxMDg=",
+            "hotel": {
+              "name": "Windsor Hotel Milano",
+              "address": {
+                "street": "Via Galileo Galilei 2",
+                "city": "Milan",
+                "zip": "20124"
+              },
+              "mainPhoto": {
+                "highResUrl": "https://q-xx.bstatic.com/images/hotel/max500/954/95456408.jpg"
+              },
+              "rating": {
+                "stars": 4,
+                "categoryName": "First Class"
+              }
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "SG90ZWxBdmFpbGFiaWxpdHk6ODAwMjI=",
+            "hotel": {
+              "name": "Hotel Cavour",
+              "address": {
+                "street": "Via Fatebenefratelli 21",
+                "city": "Milan",
+                "zip": "20121"
+              },
+              "mainPhoto": {
+                "highResUrl": "https://q-xx.bstatic.com/images/hotel/max500/171/17196423.jpg"
+              },
+              "rating": {
+                "stars": 4,
+                "categoryName": "First Class"
+              }
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "SG90ZWxBdmFpbGFiaWxpdHk6ODE3Mjk=",
+            "hotel": {
+              "name": "NH Milano Congress Centre",
+              "address": {
+                "street": "Strada 2 Milanofiori",
+                "city": "Assago",
+                "zip": "20090"
+              },
+              "mainPhoto": {
+                "highResUrl": "https://q-xx.bstatic.com/images/hotel/max500/118/118609678.jpg"
+              },
+              "rating": {
+                "stars": 4,
+                "categoryName": "First Class"
+              }
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "SG90ZWxBdmFpbGFiaWxpdHk6MTM3OTEwNQ==",
+            "hotel": {
+              "name": "Glam Milano",
+              "address": {
+                "street": "Piazza Duca D'Aosta 4/6",
+                "city": "Milan",
+                "zip": "20124"
+              },
+              "mainPhoto": {
+                "highResUrl": "https://q-xx.bstatic.com/images/hotel/max500/543/54321000.jpg"
+              },
+              "rating": {
+                "stars": 4,
+                "categoryName": "First Class"
+              }
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "SG90ZWxBdmFpbGFiaWxpdHk6MjQ4MTYw",
+            "hotel": {
+              "name": "Hotel Milano Scala",
+              "address": {
+                "street": "Via dell'Orso 7",
+                "city": "Milan",
+                "zip": "20121"
+              },
+              "mainPhoto": {
+                "highResUrl": "https://q-xx.bstatic.com/images/hotel/max500/115/115373773.jpg"
+              },
+              "rating": {
+                "stars": 4,
+                "categoryName": "First Class"
+              }
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "SG90ZWxBdmFpbGFiaWxpdHk6ODAwODM=",
+            "hotel": {
+              "name": "Art Hotel Navigli",
+              "address": {
+                "street": "Via Angelo Carlo Fumagalli 4",
+                "city": "Milan",
+                "zip": "20143"
+              },
+              "mainPhoto": {
+                "highResUrl": "https://q-xx.bstatic.com/images/hotel/max500/904/90423457.jpg"
+              },
+              "rating": {
+                "stars": 4,
+                "categoryName": "First Class"
+              }
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "SG90ZWxBdmFpbGFiaWxpdHk6MTMzMzQyNg==",
+            "hotel": {
+              "name": "Senato Hotel Milano",
+              "address": {
+                "street": "Via Senato 22",
+                "city": "Milan",
+                "zip": "20121"
+              },
+              "mainPhoto": {
+                "highResUrl": "https://q-xx.bstatic.com/images/hotel/max500/108/108498394.jpg"
+              },
+              "rating": {
+                "stars": 4,
+                "categoryName": "First Class"
+              }
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "SG90ZWxBdmFpbGFiaWxpdHk6MTg2MjUw",
+            "hotel": {
+              "name": "Genius Hotel Downtown",
+              "address": {
+                "street": "Via Porlezza 4",
+                "city": "Milan",
+                "zip": "20123"
+              },
+              "mainPhoto": {
+                "highResUrl": "https://q-xx.bstatic.com/images/hotel/max500/866/86667339.jpg"
+              },
+              "rating": {
+                "stars": 3,
+                "categoryName": "Comfort"
+              }
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "SG90ZWxBdmFpbGFiaWxpdHk6MzExMjM5MQ==",
+            "hotel": {
+              "name": "CHICCO Montenapoleone Suites",
+              "address": {
+                "street": "Piazza Filippo Meda 1",
+                "city": "Milan",
+                "zip": "20121"
+              },
+              "mainPhoto": {
+                "highResUrl": "https://q-xx.bstatic.com/images/hotel/max500/130/130472597.jpg"
+              },
+              "rating": {
+                "stars": null,
+                "categoryName": null
+              }
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "SG90ZWxBdmFpbGFiaWxpdHk6MTQwNzU2Mg==",
+            "hotel": {
+              "name": "Della Spiga Apartment",
+              "address": {
+                "street": "Via della Spiga 52",
+                "city": "Milan",
+                "zip": "20121"
+              },
+              "mainPhoto": {
+                "highResUrl": "https://q-xx.bstatic.com/images/hotel/max500/503/50368754.jpg"
+              },
+              "rating": {
+                "stars": null,
+                "categoryName": null
+              }
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "SG90ZWxBdmFpbGFiaWxpdHk6ODMyODk=",
+            "hotel": {
+              "name": "Sina De La Ville",
+              "address": {
+                "street": "Via Hoepli 6",
+                "city": "Milan",
+                "zip": "20121"
+              },
+              "mainPhoto": {
+                "highResUrl": "https://q-xx.bstatic.com/images/hotel/max500/747/74733503.jpg"
+              },
+              "rating": {
+                "stars": 4,
+                "categoryName": "First Class"
+              }
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "SG90ZWxBdmFpbGFiaWxpdHk6ODEyNzU=",
+            "hotel": {
+              "name": "Best Western Hotel Cappello d'Oro",
+              "address": {
+                "street": "Viale Papa Giovanni XXIII 12",
+                "city": "Bergamo",
+                "zip": "24121"
+              },
+              "mainPhoto": {
+                "highResUrl": "https://q-xx.bstatic.com/images/hotel/max500/759/75980757.jpg"
+              },
+              "rating": {
+                "stars": 4,
+                "categoryName": "First Class"
+              }
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "SG90ZWxBdmFpbGFiaWxpdHk6ODE3MjQ=",
+            "hotel": {
+              "name": "NH Milano Touring",
+              "address": {
+                "street": "Via Tarchetti 2",
+                "city": "Milan",
+                "zip": "20121"
+              },
+              "mainPhoto": {
+                "highResUrl": "https://q-xx.bstatic.com/images/hotel/max500/116/116764864.jpg"
+              },
+              "rating": {
+                "stars": 4,
+                "categoryName": "First Class"
+              }
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "SG90ZWxBdmFpbGFiaWxpdHk6ODg4MjI=",
+            "hotel": {
+              "name": "Hotel Soperga",
+              "address": {
+                "street": "Via Soperga 24",
+                "city": "Milan",
+                "zip": "20127"
+              },
+              "mainPhoto": {
+                "highResUrl": "https://q-xx.bstatic.com/images/hotel/max500/875/87589650.jpg"
+              },
+              "rating": {
+                "stars": 3,
+                "categoryName": "Comfort"
+              }
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "SG90ZWxBdmFpbGFiaWxpdHk6ODg5NDU=",
+            "hotel": {
+              "name": "NH Orio Al Serio",
+              "address": {
+                "street": "Via Portico 75",
+                "city": "Orio al Serio",
+                "zip": "24050"
+              },
+              "mainPhoto": {
+                "highResUrl": "https://q-xx.bstatic.com/images/hotel/max500/119/119422983.jpg"
+              },
+              "rating": {
+                "stars": 4,
+                "categoryName": "First Class"
+              }
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "SG90ZWxBdmFpbGFiaWxpdHk6MjI2MDk0",
+            "hotel": {
+              "name": "NH Collection Milano President",
+              "address": {
+                "street": "Largo Augusto 10",
+                "city": "Milan",
+                "zip": "20122"
+              },
+              "mainPhoto": {
+                "highResUrl": "https://q-xx.bstatic.com/images/hotel/max500/113/113569974.jpg"
+              },
+              "rating": {
+                "stars": 5,
+                "categoryName": "Luxury"
+              }
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "SG90ZWxBdmFpbGFiaWxpdHk6MTg2NDQw",
+            "hotel": {
+              "name": "ibis Styles Milano Agrate Brianza",
+              "address": {
+                "street": "Via Cardano 2",
+                "city": "Agrate Brianza",
+                "zip": "20864"
+              },
+              "mainPhoto": {
+                "highResUrl": "https://q-xx.bstatic.com/images/hotel/max500/132/132678068.jpg"
+              },
+              "rating": {
+                "stars": 3,
+                "categoryName": "Comfort"
+              }
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "SG90ZWxBdmFpbGFiaWxpdHk6MTM2MjA0NA==",
+            "hotel": {
+              "name": "Duomo - Apartments Milano by Nomad",
+              "address": {
+                "street": "Via San Paolo 13",
+                "city": "Milan",
+                "zip": "20121"
+              },
+              "mainPhoto": {
+                "highResUrl": "https://q-xx.bstatic.com/images/hotel/max500/102/102168601.jpg"
+              },
+              "rating": {
+                "stars": null,
+                "categoryName": null
+              }
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "SG90ZWxBdmFpbGFiaWxpdHk6MTQ4Nzc=",
+            "hotel": {
+              "name": "TownHouse Galleria",
+              "address": {
+                "street": "Via Silvio Pellico 8",
+                "city": "Milan",
+                "zip": "20121"
+              },
+              "mainPhoto": {
+                "highResUrl": "https://q-xx.bstatic.com/images/hotel/max500/645/64507037.jpg"
+              },
+              "rating": {
+                "stars": 5,
+                "categoryName": "Luxury"
+              }
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "SG90ZWxBdmFpbGFiaWxpdHk6MjE4MTc1",
+            "hotel": {
+              "name": "Starhotels Echo",
+              "address": {
+                "street": "Viale Andrea Doria 4",
+                "city": "Milan",
+                "zip": "20124"
+              },
+              "mainPhoto": {
+                "highResUrl": "https://q-xx.bstatic.com/images/hotel/max500/157/15786173.jpg"
+              },
+              "rating": {
+                "stars": 4,
+                "categoryName": "First Class"
+              }
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "SG90ZWxBdmFpbGFiaWxpdHk6MzAxNjUyNQ==",
+            "hotel": {
+              "name": "Enjoy Milano Skyline",
+              "address": {
+                "street": "Viale Sondrio 5",
+                "city": "Milan",
+                "zip": "20124"
+              },
+              "mainPhoto": {
+                "highResUrl": "https://q-xx.bstatic.com/images/hotel/max500/131/131316824.jpg"
+              },
+              "rating": {
+                "stars": null,
+                "categoryName": null
+              }
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "SG90ZWxBdmFpbGFiaWxpdHk6ODAzNTQ=",
+            "hotel": {
+              "name": "Carlyle Brera Hotel",
+              "address": {
+                "street": "Corso Garibaldi 84",
+                "city": "Milan",
+                "zip": "20121"
+              },
+              "mainPhoto": {
+                "highResUrl": "https://q-xx.bstatic.com/images/hotel/max500/515/51527796.jpg"
+              },
+              "rating": {
+                "stars": 4,
+                "categoryName": "First Class"
+              }
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "SG90ZWxBdmFpbGFiaWxpdHk6ODAwMjU=",
+            "hotel": {
+              "name": "UNA Hotel Mediterraneo",
+              "address": {
+                "street": "Via L. Muratori 14",
+                "city": "Milan",
+                "zip": "20135"
+              },
+              "mainPhoto": {
+                "highResUrl": "https://q-xx.bstatic.com/images/hotel/max500/514/51493689.jpg"
+              },
+              "rating": {
+                "stars": 4,
+                "categoryName": "First Class"
+              }
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "SG90ZWxBdmFpbGFiaWxpdHk6MTM0OTEzNA==",
+            "hotel": {
+              "name": "My Bed Montenapoleone",
+              "address": {
+                "street": "Piazza San Babila 3",
+                "city": "Milan",
+                "zip": "20122"
+              },
+              "mainPhoto": {
+                "highResUrl": "https://q-xx.bstatic.com/images/hotel/max500/454/45401740.jpg"
+              },
+              "rating": {
+                "stars": null,
+                "categoryName": null
+              }
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "SG90ZWxBdmFpbGFiaWxpdHk6MjYxMDY2",
+            "hotel": {
+              "name": "Idea Hotel Milano Malpensa Airport",
+              "address": {
+                "street": "Via Della Chiesa 27",
+                "city": "Case Nuove",
+                "zip": "21019"
+              },
+              "mainPhoto": {
+                "highResUrl": "https://q-xx.bstatic.com/images/hotel/max500/134/134148376.jpg"
+              },
+              "rating": {
+                "stars": 4,
+                "categoryName": "First Class"
+              }
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "SG90ZWxBdmFpbGFiaWxpdHk6MTg4MDI2",
+            "hotel": {
+              "name": "H2C Hotel Milanofiori",
+              "address": {
+                "street": "Via Roggia Bartolomea, 5",
+                "city": "Assago",
+                "zip": "20090"
+              },
+              "mainPhoto": {
+                "highResUrl": "https://q-xx.bstatic.com/images/hotel/max500/564/56463183.jpg"
+              },
+              "rating": {
+                "stars": 4,
+                "categoryName": "First Class"
+              }
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "SG90ZWxBdmFpbGFiaWxpdHk6MjE1NjczMQ==",
+            "hotel": {
+              "name": "Corso Como Apartment",
+              "address": {
+                "street": "7 Via Carlo de Cristoforis",
+                "city": "Milan",
+                "zip": "20124"
+              },
+              "mainPhoto": {
+                "highResUrl": "https://q-xx.bstatic.com/images/hotel/max500/888/88879041.jpg"
+              },
+              "rating": {
+                "stars": null,
+                "categoryName": null
+              }
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "SG90ZWxBdmFpbGFiaWxpdHk6Mjg5MTg5NA==",
+            "hotel": {
+              "name": "ApartHotel Durini",
+              "address": {
+                "street": "Via Durini 2",
+                "city": "Milan",
+                "zip": "20122"
+              },
+              "mainPhoto": {
+                "highResUrl": "https://q-xx.bstatic.com/images/hotel/max500/121/121832285.jpg"
+              },
+              "rating": {
+                "stars": null,
+                "categoryName": null
+              }
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "SG90ZWxBdmFpbGFiaWxpdHk6MTMxNDkwNw==",
+            "hotel": {
+              "name": "Dreams Hotel Residenza Corso Magenta",
+              "address": {
+                "street": "Corso Magenta 54",
+                "city": "Milan",
+                "zip": "20123"
+              },
+              "mainPhoto": {
+                "highResUrl": "https://q-xx.bstatic.com/images/hotel/max500/498/49877256.jpg"
+              },
+              "rating": {
+                "stars": null,
+                "categoryName": null
+              }
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "SG90ZWxBdmFpbGFiaWxpdHk6ODMxODY=",
+            "hotel": {
+              "name": "UNA Hotel Cusani",
+              "address": {
+                "street": "Via Cusani 13",
+                "city": "Milan",
+                "zip": "20121"
+              },
+              "mainPhoto": {
+                "highResUrl": "https://q-xx.bstatic.com/images/hotel/max500/513/51341803.jpg"
+              },
+              "rating": {
+                "stars": 4,
+                "categoryName": "First Class"
+              }
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "SG90ZWxBdmFpbGFiaWxpdHk6ODEzMzg=",
+            "hotel": {
+              "name": "Grand Hotel Imperiale Resort & SPA",
+              "address": {
+                "street": "Via Regina Vecchia 24-26 ",
+                "city": "Moltrasio",
+                "zip": "22010"
+              },
+              "mainPhoto": {
+                "highResUrl": "https://q-xx.bstatic.com/images/hotel/max500/729/72936205.jpg"
+              },
+              "rating": {
+                "stars": 4,
+                "categoryName": "First Class"
+              }
+            }
+          }
+        }
+      ]
+    }
+  },
+  "extensions": {}
+}
