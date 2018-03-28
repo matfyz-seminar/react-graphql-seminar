@@ -9,7 +9,7 @@ export default ({
   onDateSelect,
   onSubmit,
   destinationId,
-  dateRange,
+  dateCheckin,
 }) => (
   <div className="flexbox">
     <div className="field-box">
@@ -22,7 +22,7 @@ export default ({
       <RangePicker onChange={onDateSelect} disabled={!destinationId} />
     </div>
     <div className="field-box">
-      <Button onClick={onSubmit} type="primary" disabled={!dateRange}>
+      <Button onClick={onSubmit} type="primary" disabled={!dateCheckin}>
         Vyhledat
       </Button>
     </div>
