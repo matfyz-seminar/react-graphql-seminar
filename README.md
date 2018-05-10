@@ -15,3 +15,8 @@ Cílem kurzu je seznámení účastníků s technologiemi a postupy vývoje mult
 4. GRAPHQL
 5. REACT NATIVE
 6. TRACKING, CRASH REPORTING, PROVOZ, A/B TESTOVÁNÍ
+
+
+## FINÁLNÍ PROJEKT
+
+- Jméno - odkaz na codesandbox
