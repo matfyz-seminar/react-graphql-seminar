@@ -11,7 +11,7 @@ Cílem kurzu je seznámení účastníků s technologiemi a postupy vývoje mult
 
 1. DEV STACK - teoretický úvod do React a React Native, představení aplikace, zprovoznění vývojového prostředí, checkout GIT repozitáře, kontinuální integrace
 2. REACT 1 (statická verze webu, struktura, komponenty) + UI
-3. REACT 2 (formuláře, napojení na API) + REDUX 
+3. REACT 2 (formuláře, napojení na API) + REDUX
 4. GRAPHQL
 5. REACT NATIVE
 6. TRACKING, CRASH REPORTING, PROVOZ, A/B TESTOVÁNÍ
@@ -19,6 +19,5 @@ Cílem kurzu je seznámení účastníků s technologiemi a postupy vývoje mult
 
 ## FINÁLNÍ PROJEKT
 
+- Jan Horák - [yy0117r2v](https://codesandbox.io/s/yy0117r2v)
 - Artur Finger fingerartur@gmail.com - https://codesandbox.io/s/422r2y83m4
-
-(PS: kdyby něco nebylo v pořádku, můžu to ještě doladit)
