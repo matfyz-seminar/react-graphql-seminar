@@ -20,3 +20,4 @@ Cílem kurzu je seznámení účastníků s technologiemi a postupy vývoje mult
 ## FINÁLNÍ PROJEKT
 
 - Jan Horák - [yy0117r2v](https://codesandbox.io/s/yy0117r2v)
+- Artur Finger fingerartur@gmail.com - https://codesandbox.io/s/422r2y83m4
